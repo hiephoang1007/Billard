@@ -3,13 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/baitapjavaa/QuanLiQuanBida/src/FromChiTietBan.java</file>
-            <file>file:/C:/baitapjavaa/QuanLiQuanBida/src/DAL/MatHang.java</file>
-            <file>file:/C:/baitapjavaa/QuanLiQuanBida/src/BLL/LoaiMatHangBLL.java</file>
-            <file>file:/C:/baitapjavaa/QuanLiQuanBida/src/QuanLiQuanBida.java</file>
-            <file>file:/C:/baitapjavaa/QuanLiQuanBida/src/BLL/MatHangBLL.java</file>
-            <file>file:/C:/baitapjavaa/QuanLiQuanBida/src/DAL/LoaiMatHang.java</file>
-            <file>file:/C:/baitapjavaa/QuanLiQuanBida/src/Config/ConnectDB.java</file>
+            <file>file:/D:/Project-D/JAVA_HIEP/Billard/src/FromChiTietBan.java</file>
+            <file>file:/D:/Project-D/JAVA_HIEP/Billard/src/BLL/HoaDonBLL.java</file>
+            <file>file:/D:/Project-D/JAVA_HIEP/Billard/src/BLL/ChiTietHoaDonBLL.java</file>
+            <file>file:/D:/Project-D/JAVA_HIEP/Billard/src/DAL/MatHang.java</file>
+            <file>file:/D:/Project-D/JAVA_HIEP/Billard/src/BLL/MatHangBLL.java</file>
+            <file>file:/D:/Project-D/JAVA_HIEP/Billard/src/DAL/ChiTietDonHang.java</file>
         </group>
     </open-files>
 </project-private>

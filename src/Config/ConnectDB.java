@@ -25,10 +25,10 @@ public class ConnectDB {
 
             // Các thông số kết nối
 
-            String url = "jdbc:sqlserver://localhost:50267;databaseName=QuanLiQuanBida;encrypt=true;trustServerCertificate=true";
+            String url = "jdbc:sqlserver://localhost:1433;databaseName=QuanLiQuanBida;encrypt=true;trustServerCertificate=true";
 
             String userName = "sa";
-            String password = "123456";
+            String password = "12345678";
 
 
             // Tạo kết nối
